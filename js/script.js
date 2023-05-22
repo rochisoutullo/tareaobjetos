@@ -11,7 +11,6 @@ class Persona {
   }
   const asesora1 = new Persona(' Rocio ', 'Soutullo')
   asesora1.mostrarMensaje()
-gi
 
   class Adopcion {
     constructor (nombre, raza, edad) {
